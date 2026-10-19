@@ -1,0 +1,29 @@
+[
+    {
+        "id": "614066f5f9a9",
+        "title": "Newsletter subscription",
+        "message": "A new subscriber joined: smarthustle348@gmail.com",
+        "type": "newsletter",
+        "order_ref": null,
+        "created_at": "2026-10-19T11:47:41+01:00",
+        "read": false
+    },
+    {
+        "id": "0c233ea1e6e2",
+        "title": "Order updated",
+        "message": "BB-24ABAE7AE9 status changed to Order Confirmed",
+        "type": "order",
+        "order_ref": "BB-24ABAE7AE9",
+        "created_at": "2026-10-19T11:38:38+01:00",
+        "read": false
+    },
+    {
+        "id": "78c482c0d1ec",
+        "title": "New custom cake request",
+        "message": "CR-8F9661B3 from Ahmad Hussaini",
+        "type": "custom",
+        "order_ref": null,
+        "created_at": "2026-10-19T06:18:05+01:00",
+        "read": false
+    }
+]

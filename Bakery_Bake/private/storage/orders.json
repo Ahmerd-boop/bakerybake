@@ -1,0 +1,100 @@
+[
+    {
+        "reference": "BB-24ABAE7AE9",
+        "created_at": "2026-10-19T07:42:49+01:00",
+        "customer": {
+            "name": "Ahmad Hussaini",
+            "email": "farinyaro88@gmail.com",
+            "phone": "09066087835"
+        },
+        "items": [
+            {
+                "cart_id": "3eccb17b89",
+                "product_id": "product-3537b4fc7e",
+                "name": "Karoni",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXGMW4acSLGfpWFmZHMVCMBEtlCnPdFeAZ8h1fnbewPg&s=10",
+                "size": "Standard",
+                "flavour": "Standard",
+                "qty": 1,
+                "custom_message": "Aisha",
+                "occasion": "",
+                "instructions": "",
+                "additional": "",
+                "unit_price": 5000,
+                "line_total": 5000
+            }
+        ],
+        "subtotal": 5000,
+        "delivery_fee": 0,
+        "total": 5000,
+        "fulfilment": "pickup",
+        "delivery": {
+            "zone_id": "",
+            "area": "",
+            "address": "",
+            "landmark": "",
+            "directions": ""
+        },
+        "scheduled_at": "2026-10-29T07:41",
+        "payment_status": "pending",
+        "payment_reference": "",
+        "status": "Order Confirmed",
+        "timeline": [
+            {
+                "status": "Awaiting Payment",
+                "at": "2026-10-19T07:42:49+01:00"
+            },
+            {
+                "status": "Order Confirmed",
+                "at": "2026-10-19T11:38:38+01:00"
+            }
+        ]
+    },
+    {
+        "reference": "BB-E827BF9637",
+        "created_at": "2026-10-19T11:45:09+01:00",
+        "customer": {
+            "name": "Ahmad Hussaini",
+            "email": "farinyaro88@gmail.com",
+            "phone": "09066087835"
+        },
+        "items": [
+            {
+                "cart_id": "2223a9e73d",
+                "product_id": "product-9f7aa46a20",
+                "name": "Karoni",
+                "image": "uploads/product-74f2001fec07.png",
+                "size": "Standard",
+                "flavour": "Standard",
+                "qty": 4,
+                "custom_message": "Aisha",
+                "occasion": "Birthday",
+                "instructions": "Note: existing products in products.json that already have URL images will keep working; only newly saved products will use uploaded files.",
+                "additional": "ADDHHHH",
+                "unit_price": 40000,
+                "line_total": 160000
+            }
+        ],
+        "subtotal": 160000,
+        "delivery_fee": 300,
+        "total": 160300,
+        "fulfilment": "delivery",
+        "delivery": {
+            "zone_id": "zone-647fbfe3",
+            "area": "MALALI",
+            "address": "Note: existing products in products.json that already have URL images will keep working; only newly saved products will use uploaded files.",
+            "landmark": "Mosque",
+            "directions": "NEAR BARXAK"
+        },
+        "scheduled_at": "2026-11-01T04:44",
+        "payment_status": "pending",
+        "payment_reference": "",
+        "status": "Awaiting Payment",
+        "timeline": [
+            {
+                "status": "Awaiting Payment",
+                "at": "2026-10-19T11:45:09+01:00"
+            }
+        ]
+    }
+]

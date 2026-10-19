@@ -1,0 +1,24 @@
+[
+    {
+        "id": "product-9f7aa46a20",
+        "name": "Karoni",
+        "category": "Birhtday",
+        "description": "Note: existing products in products son that already have URL images will keep working; only newly saved products will use uploaded files.",
+        "image": "uploads/product-74f2001fec07.png",
+        "price": 40000,
+        "sizes": [
+            {
+                "label": "Standard",
+                "price": 40000
+            }
+        ],
+        "flavours": [
+            {
+                "label": "Standard",
+                "extra": 0
+            }
+        ],
+        "available": true,
+        "featured": false
+    }
+]

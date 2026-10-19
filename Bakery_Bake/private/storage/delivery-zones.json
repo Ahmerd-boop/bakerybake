@@ -1,0 +1,14 @@
+[
+    {
+        "id": "zone-647fbfe3",
+        "name": "MALALI",
+        "fee": 300,
+        "enabled": true
+    },
+    {
+        "id": "zone-6f843508",
+        "name": "SHARARA",
+        "fee": 660,
+        "enabled": true
+    }
+]

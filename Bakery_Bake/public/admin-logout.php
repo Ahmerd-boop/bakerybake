@@ -1,0 +1,1 @@
+<?php require __DIR__.'/bootstrap.php';if(session_status()!==PHP_SESSION_ACTIVE)session_start();$_SESSION=[];session_destroy();redirect('admin-login.php');
